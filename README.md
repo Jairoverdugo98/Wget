@@ -3,8 +3,8 @@ Estudio de la herramienta wget
 ## Indice
 Aquí se trataran los siguientes apartados
 
-1.- Introducción
-(/Wget/Introducción)
+1.-[Introducción](https://github.com/Jairoverdugo98/Wget/blob/master/1.-Introducción.md)
+
 
 2.- Instalación
 
