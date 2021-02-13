@@ -9,6 +9,5 @@
 
 ## Uso del comando Wget para limitar la velocidad de descarga
 
-![Ejemplo3](https://github.com/Jairoverdugo98/Wget/brain/wget/ejemplo3.png)
-![/wget/ejemplo3.PNG](/wget/ejemplo3PNG)
+![/wget/ejemplo3.PNG](/wget/ejemplo3.PNG)
 
