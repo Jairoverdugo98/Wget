@@ -4,7 +4,7 @@ Estudio de la herramienta wget
 Aquí se trataran los siguientes apartados
 
 1.- Introducción
-![1.-Introducción](/Wget/Introducción)
+(/Wget/Introducción)
 
 2.- Instalación
 
